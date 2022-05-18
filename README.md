@@ -322,4 +322,4 @@ berbeda-beda sesuai pilihan pekerjaan.
 </html>
 ```
 ## Hasil Outputnya Sebagai Berikut :
-![Foto](Foto/Foto15.png)
+![foto](foto/out.png)
